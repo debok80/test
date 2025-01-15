@@ -14,7 +14,3 @@ Eine Streamlit-Anwendung zur Erfassung und Analyse von Verbrauchswerten (Strom, 
   - Jahresvergleichen
   - Statistischen Kennzahlen
   - Saisonaler Analyse
-
-## Installation
-
-1. Repository klonen:
