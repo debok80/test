@@ -13,4 +13,4 @@ Eine Streamlit-Anwendung zur Erfassung und Analyse von Verbrauchswerten (Strom, 
   - Monatlichen und jährlichen Trends
   - Jahresvergleichen
   - Statistischen Kennzahlen
-  - Saisonaler Analyse
+  - Saisonaler Analyse# test
